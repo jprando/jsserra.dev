@@ -40,6 +40,8 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+.DS_Store
+/dist
 
 # TypeScript v1 declaration files
 typings/
@@ -71,6 +73,8 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+.env.local
+.env.*.local
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -102,3 +106,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

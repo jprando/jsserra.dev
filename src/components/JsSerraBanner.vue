@@ -22,7 +22,7 @@ export default {
 <style scoped>
 img {
   object-fit: cover;
-  object-position: 0px -150px;
+  object-position: 0px -99px;
   width: 800px;
   height: 125px;
 }

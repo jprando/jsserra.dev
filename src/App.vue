@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
+  <section id="app">
     <JsSerraBanner />
-  </div>
+  </section>
 </template>
 
 <script>

@@ -14,6 +14,7 @@
     <p>Telegram <br> <a href="https://t.me/jsserra" target="_blank" rel="noopener">https://t.me/jsserra</a></p>
     <p>Meetup <br> <a href="https://www.meetup.com/pt-BR/jsserra/" target="_blank" rel="noopener">https://www.meetup.com/pt-BR/jsserra/</a></p>
     <p>Seja bem vindo ao clube <strong>JSSERRA</strong>!</p>
+    <p><a href="https://pt-br.confcodeofconduct.com/">Código de conduta do grupo</a></p>
   </article>
 </template>
 

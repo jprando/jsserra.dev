@@ -5,7 +5,7 @@
     <h2> Tecnologia Web na Serra-ES </h2>
     <p>Comunidade criada e mantida com a finalidade de unir e conectar pessoas.</p>
     <p>Que gostam ou usam tecnologia para a web e que moram na Serra-ES.</p>
-    <p>Se você é Dev ou entusiasta, ou até mesmo gosta do assunto é muito bem vindo!</p>
+    <p>Se você é Dev, entusiasta ou simplemente gosta do assunto é muito bem vindo!</p>
     <h2>Como</h2>
     <p>Vamos aprender, fazer acontecer, evoluir e falar sobre.</p>
     <p>Através de encontros, talks, palestras e aulas em locais físicos ou online.</p>
